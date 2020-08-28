@@ -1,0 +1,24 @@
+{
+  "name": "TypeScriptBOT",
+  "version": "1.0.0",
+  "description": "A simple Discord BOT in TypeScript transpiled in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kuriioo/TypeScriptBOT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kuriioo/TypeScriptBOT/issues"
+  },
+  "homepage": "https://github.com/Kuriioo/TypeScriptBOT#readme",
+  "dependencies": {
+    "@types/node": "^14.6.1",
+    "discord.js": "^12.3.1"
+  }
+}
